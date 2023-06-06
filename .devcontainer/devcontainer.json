@@ -20,7 +20,7 @@
 			"type": "bind"
 		},
 		{
-			"source": "${localEnv:HOME}${localEnv:USERPROFILE}/.gitconfig-work",
+			"source": "${localEnv:HOME}${localEnv:USERPROFILE}/.gitconfig",
 			"target": "/root/.gitconfig",
 			"type": "bind"
 		}
